@@ -3,7 +3,8 @@
 
 ### Olá, pessoal! 👋
 
-<p>Meu nome é Vanessa, ] anos e sou de São Paulo/SP. Fiz uma transição de carreira da advocacia para a tecnoloogia (obrigada Generation Brasil!) no final de 2020, e desde 2021 trabalho como desenvolvedora backend.</p>
+<p>Meu nome é Vanessa, tenho <age> anos e sou de São Paulo/SP.</p>
+<p> Fiz uma transição de carreira da advocacia para a tecnoloogia (obrigada Generation Brasil!) no final de 2020, e desde 2021 trabalho como desenvolvedora backend.</p>
 
 :information_desk_person: Estou sempre buscando oportunidade de aprender o máximo possível, e também a ajudar mulheres que buscam entrar na área de tecnologia e estão em transição de carreira.
 <br>
