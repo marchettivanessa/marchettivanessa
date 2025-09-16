@@ -8,7 +8,7 @@ age = today.year - birthday.year - ((today.month, today.day) < (birthday.month, 
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-updated = re.sub(r"(tenho )\d+( anos)", rf"\1{age}\2", content)
+updated = re.sub(r"<age>", str(age), content)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
